@@ -1,37 +1,15 @@
-127.0.0.1       localhost
-::1             ip6-localhost
-
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip4-localhost
-::1 ip4-loopback
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
 127.0.0.1 lgame-cdn-tolerance-1300955520.file.myqcloud.com
 127.0.0.1 sg.row-release-pub-v2.game.wr.pvp.net
 127.0.0.1 api.hcaptcha.com
 127.0.0.1 js.hcaptcha.com
 127.0.0.1 newassets.hcaptcha.com
-
 127.0.0.1 tdm.prod01.row.cros.wr.pvp.net
 127.0.0.1 sdk-api-v1.singular.net
 127.0.0.1 bacon.secure.dyn.riotcdn.net
 127.0.0.1 amssg.cros.wr.pvp.net
-
 127.0.0.1 wildrift.secure.dyn.riotcdn.net
 127.0.0.1 insights-collector.newrelic.com
 127.0.0.1 data.riotgames.com
-
 127.0.0.1 cloudctrl.cros.wr.pvp.net
 127.0.0.1 amssg.cros.wr.pvp.net
 127.0.0.1 ekg.riotgames.com
@@ -39,13 +17,11 @@ ff02::3 ip6-allhosts
 127.0.0.1 control-out.mna.qq.com
 127.0.0.1 playerpreferences.riotgames.com
 127.0.0.1 riot-client.dyn.riotcdn.net
-
 127.0.0.1 astat.bugly.cros.wr.pvp.net
 127.0.0.1 wildrift-na.akamaized.net
 127.0.0.1 geoconfig.wr.pvp.net
 127.0.0.1 sg-backup.row-release-pub-v2.game.wr.pvp.net
 127.0.0.1 broker.pandora.as.pub.row.cros.wr.pvp.net
-
 127.0.0.1 api.anti-addiction.kr.riotgames.com
 127.0.0.1 ritoplus.secure.dyn.riotcdn.net
 127.0.0.1 prod.touchpoint.security.kr.riotgames.com
@@ -58,7 +34,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 zfxjp.cros.wr.pvp.net
 127.0.0.1 lol.secure.dyn.riotcdn.net
 127.0.0.1 cloudctrl.prod01.row.cros.wr.pvp.net
-
 127.0.0.1 ap-ak.vg.ac.pvp.net
 127.0.0.1 ap.vg.ac.pvp.net
 127.0.0.1 tgpa.cros.wr.pvp.net
@@ -90,7 +65,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 150.109.29.48
 127.0.0.1 104.18.41.183
 127.0.0.1 172.65.217.212
-
 127.0.0.1 vanguard.com
 127.0.0.1 ai1soelpmfg000.vanguard.com
 127.0.0.1 wssva010.vanguard.com
@@ -201,7 +175,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 200 mx0b-00031e02.pphosted.com
 127.0.0.1 200 mx0a-00031e02.pphosted.com
 127.0.0.1 100 mxb-00031e02.gslb.pphosted.com
-
 127.0.0.1 pvp.net
 127.0.0.1 dd.b.pvp.net
 127.0.0.1 bilge.redge.globalriot.aws-rclusterprod-usw2-1.na1.rc.pvp.net
@@ -249,7 +222,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 monitor-misc.cros.wr.pvp.net
 127.0.0.1 bf-prod.cros.wr.pvp.net
 127.0.0.1 apmprod.cros.wr.pvp.net
-
 127.0.0.1 1690133797.gcloud.cros.wr.pvp.net
 127.0.0.1 1.1690133797.gcloud.cros.wr.pvp.net
 127.0.0.1 pre-download.1.1690133797.gcloud.cros.wr.pvp.net
@@ -261,7 +233,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 admin.gcloud.cros.wr.pvp.net
 127.0.0.1 usercenter.gcloud.cros.wr.pvp.net
 127.0.0.1 lgameeu.gcloud.cros.wr.pvp.net
-
 127.0.0.1 xone-fra-pre.cros.wr.pvp.net
 127.0.0.1 imeta-pre.cros.wr.pvp.net
 127.0.0.1 cmdb-pre.cros.wr.pvp.net
@@ -444,11 +415,9 @@ ff02::3 ip6-allhosts
 127.0.0.1 lq.black1.riotgames.com
 127.0.0.1 ns1.riotgames.com
 127.0.0.1 store.sweet1.riotgames.com
-
 127.0.0.1 prod.fra1tmnt1.riotgames.com
 127.0.0.1 store.fra1tmnt1.riotgames.com
 127.0.0.1 lq.fra1tmnt1.riotgames.com
-
 127.0.0.1 riot1.riotgames.com
 127.0.0.1 secure2.riotgames.com
 127.0.0.1 ns2.riotgames.com
@@ -470,11 +439,8 @@ ff02::3 ip6-allhosts
 127.0.0.1 na.dev.leagueconnect.api.riotgames.com
 127.0.0.1 fbconversionsapi.riotgames.com
 127.0.0.1 project-l.riotgames.com
-
 127.0.0.1 store.na1.lol.riotgames.com
-
 127.0.0.1 tournament2.lol.riotgames.com
-
 127.0.0.1 store.trsa.lol.riotgames.com
 127.0.0.1 mx1.kr.lol.riotgames.com
 127.0.0.1 spectator.kr.lol.riotgames.com
@@ -482,7 +448,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 tournament.lol.riotgames.com
 127.0.0.1 test.lol.riotgames.com
 127.0.0.1 eu.lol.riotgames.com
-
 127.0.0.1 em.riotgames.com
 127.0.0.1 mta10.em.riotgames.com
 127.0.0.1 mta20.em.riotgames.com
@@ -535,7 +500,6 @@ ff02::3 ip6-allhosts
 127.0.0.1 lt-us-west-2.signup-api.accounts.riotgames.com
 127.0.0.1 stage.signup-api.accounts.riotgames.com
 127.0.0.1 *.pvp.net
-
 127.0.0.1 intl.acekeeper.anticheatexpert.com
 127.0.0.1 intltest.acekeeper.anticheatexpert.com
 127.0.0.1 login.auth.anticheatexpert.com
